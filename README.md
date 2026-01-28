@@ -99,16 +99,6 @@ GitHub, Jupyter Notebook, Google Colab, VS Code, Streamlit, AWS Academy Tools
 
 ---
 
-### 👁️ EduVision – Computer Vision Based Learning Tool  
-**Aug 2023 – Nov 2023**
-
-- Built a real-time learning tool for detecting alphabets, numbers, and shapes  
-- Applied **OpenCV** for image processing and feature extraction  
-
-**Tech:** Python, OpenCV  
-
----
-
 ### 📊 COVID-19 in India Dashboard  
 **Jul 2024 – Oct 2024**
 
