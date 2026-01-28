@@ -1,160 +1,124 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Rutuja Mahesh Dambir</h1>
 <h3 align="center">
-MS Data Analytics Engineering Student | Aspiring Data Analyst | Machine Learning Enthusiast
+MS Data Analytics Engineering Student | Aspiring Data Analyst | Applied Machine Learning
 </h3>
 
 <p align="center">
-📍 Boston, MA &nbsp;•&nbsp;
-🎓 MS in Data Analytics Engineering, Northeastern University  
+📍 Boston, MA &nbsp;•&nbsp; 🎓 Northeastern University  
 </p>
 
 ---
 
 ## 💡 About Me
 
-I am a **Master’s student in Data Analytics Engineering** with hands-on experience working on **data analysis, machine learning, and visualization projects** across healthcare, recommendation systems, computer vision, and public data analytics.
+I am a **Master’s student in Data Analytics Engineering** with hands-on experience in **data analysis, machine learning, and visualization** through academic and internship projects.
 
-Through my academic and internship projects, I have built **predictive models**, performed **exploratory data analysis**, worked with **text and image data**, and created **interactive dashboards** to communicate insights. My work includes projects such as **diabetes readmission risk prediction**, a **personalized skincare recommendation system**, a **computer vision–based learning tool**, and **COVID-19 data visualization dashboards**.
+I have worked on projects involving **predictive modeling, time-series and signal data, text and image data analysis, customer analytics, SQL-based data systems, and interactive dashboards**. My work spans domains such as **healthcare analytics, eCommerce analytics, recommendation systems, and entrepreneurship data management**.
 
-I enjoy working on **end-to-end analytics workflows** — from data cleaning and feature engineering to model evaluation and visualization — with a focus on building **practical, well-documented solutions** that translate data into actionable insights.
-
-
----
-
-## 🎯 Career Focus
-
-### 📊 Data Analyst / Analytics Engineer
-- Data exploration & statistical analysis  
-- SQL-driven data extraction & transformation  
-- KPI design & dashboarding  
-- Business and healthcare analytics  
-
-### 🤖 Machine Learning / Applied Research
-- Supervised & unsupervised learning  
-- NLP & text-based modeling  
-- Model evaluation & optimization  
-- Research-oriented experimentation  
+I enjoy building **end-to-end analytics workflows** — from data cleaning and feature engineering to model evaluation, insight generation, and visualization — with a focus on **practical, well-documented, and impact-driven solutions**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data & Programming
-- **Python** (Pandas, NumPy, scikit-learn, TensorFlow)
-- **SQL** (MySQL, Oracle SQL)
-- **NoSQL** (MongoDB)
-- Data Cleaning, Feature Engineering, EDA
+**Programming & Data:**  
+Python (Pandas, NumPy, scikit-learn, TensorFlow), SQL (MySQL, Oracle SQL), MongoDB  
 
-### 🤖 Machine Learning & AI
-- Regression, Classification, Clustering
-- XGBoost, Logistic Regression, Random Forests
-- NLP (text preprocessing, sentiment analysis)
-- Computer Vision (OpenCV, OCR)
-- Handling class imbalance (SMOTE)
-- Model evaluation & optimization
+**Machine Learning & Analytics:**  
+Regression, Classification, Clustering, XGBoost, CNNs, NLP, Computer Vision, SMOTE, Feature Engineering, Model Evaluation  
 
-### 📈 Visualization & BI
-- Power BI
-- Tableau
-- Matplotlib, Seaborn
+**Visualization & BI:**  
+Power BI, Tableau, Matplotlib, Seaborn  
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook, Google Colab
-- VS Code
-- Streamlit
-- AWS Academy tools
+**Tools & Platforms:**  
+GitHub, Jupyter Notebook, Google Colab, VS Code, Streamlit, AWS Academy Tools  
 
 ---
 
-## 🚀 Featured Projects (Research-Grade)
+## 🚀 Featured Projects
 
-### 🏥 Diabetes Readmission Prediction Model
-**Duration:** Jul 2024 – Oct 2024  
+### 🧠 EEG-Based Epileptic Seizure Detection Using Deep Learning  
+**Northeastern University | Nov 2025 – Dec 2025**
 
-**Problem:**  
-Hospital readmissions among diabetic patients increase healthcare costs and indicate gaps in patient care.
+- Built an **end-to-end EEG seizure detection pipeline** using CHB-MIT and Bonn EEG datasets  
+- Applied signal preprocessing, band-pass filtering, segmentation, and normalization on raw EEG time-series data  
+- Trained a **1D CNN in TensorFlow** to classify seizure vs. non-seizure activity  
+- Parsed EDF files with seizure annotations and handled large-scale EEG data  
+- Achieved **98.2% test accuracy**, **AUC = 0.998**, and **98% seizure recall**, validated using ROC and confusion matrix analysis  
 
-**Approach:**  
-- Performed data preprocessing and normalization on healthcare datasets  
-- Addressed class imbalance using **SMOTE**  
-- Built and compared multiple models (Logistic Regression, Random Forest, Decision Trees)  
-- Achieved superior performance using **XGBoost**  
-- Deployed the model via a **Streamlit web application** for usability  
-
-**Tech Stack:** Python, XGBoost, scikit-learn, SMOTE, Streamlit  
-
-📌 *Healthcare analytics + applied ML*  
-👉 **[View Repository](#)**
+**Tech:** Python, TensorFlow, Deep Learning, Signal Processing  
 
 ---
 
-### 🧴 Intelligent Personalized Skin Care Recommendation System
-**Duration:** Jan 2024 – Apr 2024  
+### 👩‍💼 Boston Women Entrepreneurship Incubator Tracker  
+**Northeastern University | Sep 2025 – Nov 2025**
 
-**Problem:**  
-Generic skincare recommendations fail to address individual skin types and preferences.
+- Designed a **relational SQL data model with 15+ normalized tables** and populated **700+ cleaned records**  
+- Developed **20+ analytical SQL queries** (joins, CTEs, aggregations) to analyze funding, mentorship, and startup performance  
+- Built a **MongoDB version** to support flexible document-based analysis  
+- Collaborated in a 2-member team, contributing ~50% to data modeling, dataset preparation, and analytical reporting  
 
-**Approach:**  
-- Analyzed skincare product reviews and descriptions  
-- Built a machine learning-based recommendation system  
-- Used **Logistic Regression** as the optimal model (98% accuracy)  
-- Iteratively improved recommendations based on user feedback  
-
-**Tech Stack:** Python, Pandas, NumPy, scikit-learn, Matplotlib  
-
-📌 *ML-driven recommendation system with publication*  
-👉 **[View Repository](#)**
-
-📄 **Publication:**  
-*Dambir, R., & Kale, P. “Intelligent Personalized Skin Care Recommendation System”*  
-To be published in **Springer – Lecture Notes in Networks and Systems (Scopus Indexed)**
+**Tech:** MySQL, MongoDB, SQL, Data Modeling  
 
 ---
 
-### 👁️ EduVision – Computer Vision Based Learning Tool
-**Duration:** Aug 2023 – Nov 2023  
+### 🛍️ Customer Segmentation Using RFM Analysis & K-Means  
+**Northeastern University | Oct 2025 – Nov 2025**
 
-**Problem:**  
-Early education can benefit from interactive and visual learning tools.
+- Performed **end-to-end RFM analysis** on a **540K+ transaction eCommerce dataset**  
+- Engineered RFM metrics for **4,339 customers** and applied quartile-based scoring  
+- Built behavioral segments using **K-Means clustering**, identifying VIP customers (0.6%) contributing ~25% of revenue  
+- Generated data-driven marketing and retention recommendations  
 
-**Approach:**  
-- Built a real-time object detection system for alphabets, numbers, and shapes  
-- Used **OpenCV** for image processing and feature extraction  
-- Implemented ML concepts to enhance recognition accuracy  
-
-**Tech Stack:** Python, OpenCV  
-
-📌 *Applied computer vision & real-time processing*  
-👉 **[View Repository](#)**
+**Tech:** Python, Pandas, NumPy, scikit-learn  
 
 ---
 
-### 📊 COVID-19 in India Dashboard Analysis
-**Duration:** Jul 2024 – Oct 2024  
+### 🏥 Diabetes Readmission Prediction Model  
+**Jul 2024 – Oct 2024**
 
-**Problem:**  
-Public health stakeholders require clear visual insights into COVID-19 trends.
+- Built predictive models to estimate hospital readmission risk for diabetic patients  
+- Addressed class imbalance using **SMOTE** and compared multiple ML models  
+- Achieved best performance using **XGBoost**  
+- Deployed the model using **Streamlit** for user-friendly interaction  
 
-**Approach:**  
-- Designed an interactive **Tableau dashboard**  
-- Visualized infection rates, recoveries, vaccinations, and healthcare capacity  
-- Included state-wise maps and demographic breakdowns  
+**Tech:** Python, XGBoost, scikit-learn, Streamlit  
 
-**Tech Stack:** Tableau  
+---
 
-📌 *Data visualization for public health analytics*  
-👉 **[View Dashboard](#)**
+### 🧴 Intelligent Personalized Skin Care Recommendation System  
+**Jan 2024 – Apr 2024**
 
+- Developed a machine learning-based recommendation system using product reviews and descriptions  
+- Achieved **98% accuracy** using Logistic Regression  
+- Improved recommendations iteratively based on user feedback  
+
+📄 *Manuscript submitted to Springer (Scopus Indexed)*  
+
+**Tech:** Python, NLP, scikit-learn  
+
+---
+
+### 👁️ EduVision – Computer Vision Based Learning Tool  
+**Aug 2023 – Nov 2023**
+
+- Built a real-time learning tool for detecting alphabets, numbers, and shapes  
+- Applied **OpenCV** for image processing and feature extraction  
+
+**Tech:** Python, OpenCV  
+
+---
+
+### 📊 COVID-19 in India Dashboard  
+**Jul 2024 – Oct 2024**
+
+- Designed an interactive Tableau dashboard to visualize COVID-19 trends  
+- Included state-wise mapping, vaccination tracking, and demographic insights  
+
+**Tech:** Tableau  
 ---
 
 ## 💼 Internship Experience
-
-### 📈 Data Science Intern — Infiny Solutions
-- Built ML models for customer behavior prediction  
-- Applied NLP techniques to analyze customer feedback  
-- Worked with Python, scikit-learn, TensorFlow  
 
 ### ☁️ Data Analytics Virtual Intern — AWS Academy
 - Analyzed large datasets using AWS analytics tools  
@@ -183,8 +147,8 @@ Public health stakeholders require clear visual insights into COVID-19 trends.
 ---
 
 ## 📬 Let’s Connect
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rutujadambir  
-- 📧 **Email:** dambirrutuja@gmail.com  
+- 💼 **LinkedIn:** www.linkedin.com/in/rutujadambir 
+- 📧 **Email:** dambir.r@northeastern.edu  
 - 🌐 **Portfolio Website:** Coming soon  
 
 ---
