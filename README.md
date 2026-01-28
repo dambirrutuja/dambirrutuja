@@ -1,6 +1,8 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Rutuja Mahesh Dambir</h1>
-<h3 align="center">Data Analyst | Machine Learning Engineer | Applied AI Researcher</h3>
+<h3 align="center">
+MS Data Analytics Engineering Student | Aspiring Data Analyst | Machine Learning Enthusiast
+</h3>
 
 <p align="center">
 📍 Boston, MA &nbsp;•&nbsp;
@@ -11,10 +13,12 @@
 
 ## 💡 About Me
 
-I am a **data analytics and machine learning practitioner** with hands-on experience building **predictive models, NLP systems, computer vision applications, and analytical dashboards**.  
-My interests lie at the intersection of **applied machine learning, healthcare analytics, and data-driven decision-making**.
+I am a **Master’s student in Data Analytics Engineering** with hands-on experience working on **data analysis, machine learning, and visualization projects** across healthcare, recommendation systems, computer vision, and public data analytics.
 
-I enjoy working on **end-to-end projects** — from data preprocessing and modeling to visualization and deployment — with a strong focus on **real-world impact and research quality**.
+Through my academic and internship projects, I have built **predictive models**, performed **exploratory data analysis**, worked with **text and image data**, and created **interactive dashboards** to communicate insights. My work includes projects such as **diabetes readmission risk prediction**, a **personalized skincare recommendation system**, a **computer vision–based learning tool**, and **COVID-19 data visualization dashboards**.
+
+I enjoy working on **end-to-end analytics workflows** — from data cleaning and feature engineering to model evaluation and visualization — with a focus on building **practical, well-documented solutions** that translate data into actionable insights.
+
 
 ---
 
