@@ -154,8 +154,6 @@ GitHub, Jupyter Notebook, Google Colab, VS Code, Streamlit, AWS Academy Tools
 ---
 
 ⭐ *If you find my work interesting, feel free to explore my repositories or connect with me!*
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 ![Python](https://img.shields.io/badge/Python-Data-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-green)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
