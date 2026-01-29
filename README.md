@@ -57,10 +57,18 @@ GitHub, Jupyter Notebook, Google Colab, VS Code, Streamlit, AWS Academy Tools
 ---
 
 ⭐ *If you find my work interesting, feel free to explore my repositories or connect with me!*
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=wh…
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <!--
 **dambirrutuja/dambirrutuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
